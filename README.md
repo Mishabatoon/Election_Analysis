@@ -20,6 +20,8 @@ The image below is a summary of the Election Results.
 	 - **Jefferson:** 10.5% (38,855)
 	 - **Denver:** 82.8% (306,055)
 	 - **Arapahoe:** 6.7% (24,801)
+	 
+![County_Votes](https://raw.githubusercontent.com/Mishabatoon/Election_Analysis/main/county_votes.png)
 
  -   Which county had the largest number of votes? 
 	 - ***Denver County** has the largest number of votes which has a 306,055 total votes.**
@@ -36,14 +38,14 @@ The image below is a summary of the Election Results.
 	 - Winning Vote Count: **272,892**
 	 - Winning Percentage: **73.8%**
 
-
+![Winner_Votes](https://raw.githubusercontent.com/Mishabatoon/Election_Analysis/main/Winner.png)
 
 ## Election-Audit Summary
 
 The results presented in this report parse through raw data collected through the election ballot process and provides a concise summary of election data by reporting the winner, vote count, and winning percentage. 
 
 As a proposal to the election comissioners, I propose the sale of this script in perpituity, including 20 hours of consultation services that can be used within 180 days from full execution of this proposal for adaptation and configuration to other elections. Two proposed scenarios for use in upcoming election events are noted below:
-- Use of script to analyze Mayoral election data with information broken down by local neighborhoods within the local municipality. 
+- Use of script to analyze Mayoral election data with information broken down by local neighborhood within the local municipality.
 - Use of this script to analyze Senatorial election data with information broken down by counties within the state.
 
 
